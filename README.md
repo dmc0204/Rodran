@@ -14,13 +14,13 @@ Functional Requirements:
   Fans/Non-Administrative Users
 
 The system shall allow Non-Administrative Users to retrieve Seasonal Stats.
-The system shall allow Non-Administrative Users to retrieve Stats for specific Games during a specified Season or Series. 
+The system shall allow Non-Administrative Users to retrieve Stats for specific Games during a specified Season or Series.
 The system shall allow Non-Administrative Users to retrieve a Specified Team’s…
-Roster, Owner/s, Sponsor/s, Coach and Players.
+	Roster, Owner/s, Sponsor/s, Coach and Players.
 The system shall allow Non-Administrative Users to retrieve a Players…
-Stats, Past Teams, Current Team, win/loss ratio, Personal Information.
+	Stats, Past Teams, Current Team, win/loss ratio, Personal Information.
 The system shall allow Non-Administrative Users retrieve a Characters…
-Stats, Who plays them, Win/loss ratio.
+	Stats, Who plays them, Win/loss ratio.
 	
   Administrative Users
 
