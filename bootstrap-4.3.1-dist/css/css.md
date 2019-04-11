@@ -1,1 +1,1 @@
-this is the bootstrap subdirectory for the bootstrap css files.
+This is the bootstrap subdirectory for the bootstrap css files.
