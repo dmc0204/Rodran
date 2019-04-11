@@ -5,7 +5,9 @@ Environement:
 For Windows Users -
 	Interactive Web interface requires a PHP services. If the page is hosted locally, the localhost must have some kind of 		PHP backend.
 	
-	This demo was executed locally, on a Windows 10 systems using xAMPP.
+	This demo was executed locally, on a Windows 10 host using Chrome Browser, MySQL Community Edition and xAMPP.
+	
+	<--xAMPP-->
 	
 	xAMPP install instructions can be found @
 	https://www.wikihow.com/Install-XAMPP-for-Windows
@@ -25,7 +27,9 @@ For Windows Users -
 	
 	After installing xAMPP, putting the project into the htdocs folder and starting the Apache server, you may access the 		demo by opening the latest Chrome or Firefox browser and entering /localhost/owldb/ into the browser bar.
 	
-	<--mysql-->
+	<--MySQL Community Edition-->
+	
+	
 	
 
 
