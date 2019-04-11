@@ -3,8 +3,8 @@
 Environment:
 
 For Windows Users -
-	The Overwatch League Interactive Web Interface demo requires a PHP services. If the page is hosted locally,  
-	the localhost must have some kind of PHP backend.
+	The Overwatch League Interactive Web Interface demo requires a PHP services. If the page is hosted  
+	locally, the localhost must have some kind of PHP backend.
 	
 	This demo was executed locally, on a Windows 10 host using Chrome Browser, MySQL Community Edition and xAMPP
 	
