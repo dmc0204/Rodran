@@ -46,4 +46,38 @@ For Windows Users -
 	
 	The demo will not connect successfully without the correct username and password for the php connector  
 	to use.
+	
+	After you have created a Local Instance in MySQL using the Username and Password for the demo, you will  
+	need to import the Database Structure and Data into MySQL.
+	
+	First, you will want to download the owldb_v1.sql dump file from the root of the repository to a  
+	destination of your choice. (Github Repository:\...\Rodran\owldb_v1.sql)
+	
+	Next, you will want to import that Database dump into the Local Instance you created on your MySQL. 
+	
+	To do this, you will need to start the Local Instance you created in MySQL Workbench.
+	
+	Use the Server dropdown menu at the top of the program and select Data Import.
+	
+	Select the Import Option radial button that says "O Import from Self-contained File".
+	
+	Specify the location of the "owldb_v1.sql" file that you downloaded to your computer.
+	
+	Near the bottom right corner, there is a dropdown menu that lets you select "Dump Structure and Data",  
+	"Dump Structure Only" or "Dump Data Only". 
+	"Dump Structure and Data" should be selected by default.  
+	If not, select "Dump Structure and Data" now. 
+	
+	At the bottom right corner, there is a button labeled "Start Import". Click this button and follow the  
+	prompts using default options. 
+	
+	You are importing the structure and data of a self-contained sql dump of the demoed Database file  
+	you downloaded and targeted with the MySQL Data import function. 
+	
+	The project demo interacts with the structure and data contained in the sql dump file. 
+	
+	
+	
+	
+	
 
