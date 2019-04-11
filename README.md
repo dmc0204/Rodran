@@ -72,9 +72,23 @@ For Windows Users -
 	prompts using default options. 
 	
 	You are importing the structure and data of a self-contained sql dump of the demoed Database file  
-	you downloaded and targeted with the MySQL Data import function. 
+	you downloaded and imported with the MySQL Data import function. 
 	
-	The project demo interacts with the structure and data contained in the sql dump file. 
+	The project demo interacts with the structure and data contained in the sql dump file.
+	
+	<-- Ready Check -->
+	
+	Before you test the project demo:
+	
+	1) The project files should be in the ".../htdocs/owldb/" file path (if using xAMPP as your local server).  
+	2) MySQL service should be running a Local Instance of the Database system with the Structure  
+	   and Data from the "owldb_v1.sql" dump.
+	3) xAMPP Control Panel is running and you have started the Apache Server.
+	4) You are now ready to open newest version of Chrome or Firefox to test the project demo.
+	5) Navigate to "/localhost/owldb/" in your browser. If you are using a different filepath or server  
+	   these steps will not work for you.
+	   
+	Enjoy using the Overwatch League Database!
 	
 	
 	
