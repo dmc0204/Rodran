@@ -1,1 +1,1 @@
-This is the subdirectory for the Bootstrap Javascript files.
+This is the subdirectory for the bootstrap javascript files.
