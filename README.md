@@ -3,7 +3,8 @@
 Environement:
 
 For Windows Users -
-	Interactive Web interface requires a PHP services. If the page is hosted locally, the localhost must have some kind of 		PHP backend.
+	Interactive Web interface requires a PHP services. If the page is hosted locally, the localhost must have some kind of   
+	PHP backend.
 	
 	This demo was executed locally, on a Windows 10 host using Chrome Browser, MySQL Community Edition and xAMPP.
 	
@@ -12,7 +13,8 @@ For Windows Users -
 	xAMPP install instructions can be found @
 	https://www.wikihow.com/Install-XAMPP-for-Windows
 	
-	Only the Apache services are required. After installing xAMPP, run the xAMPP Control Panel and start the Apache 		services.
+	Only the Apache services are required. After installing xAMPP, run the xAMPP Control Panel and start the Apache  
+	services.
 	
 	The OWLDB project must be stored in the path of the backend Apache server. 
 	
@@ -50,11 +52,16 @@ Database Design and Implementation Course Work
 
 Problem Statement:
 
-	A centralized data repository with intuitive interface for Overwatch League Fans and Administrators to add, remove, update or view league statistics.
+	A centralized data repository with intuitive interface for Overwatch League Fans and Administrators to add, remove,  
+	update or view league statistics.
 
 System Requirements:
 
-	The system will allow the persistent storage of vital Overwatch League historical data in a centralized database. Only authorized users(admins, superadmins) will be able to add, remove(rarely) or update records on the database. The data contained in the database will be viewable to Fans, Players and Analysts using a GUI interface. The users will be restricted to queries provided by the interface and some simple searches. If possible, we might implement an advanced search. 
+	The system will allow the persistent storage of vital Overwatch League historical data in a centralized database. Only  
+	authorized users(admins, superadmins) will be able to add, remove(rarely) or update records on the database. The data  
+	contained in the database will be viewable to Fans, Players and Analysts using a GUI interface. The users will be  
+	restricted to queries provided by the interface and some simple searches. If possible, we might implement an advanced 
+	search. 
   
 Functional Requirements:
 
