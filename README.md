@@ -13,8 +13,8 @@ For Windows Users -
 	xAMPP install instructions can be found @
 	https://www.wikihow.com/Install-XAMPP-for-Windows
 	
-	Only the Apache services are required. After installing xAMPP, run the xAMPP Control Panel and start the Apache  
-	services.
+	Only the Apache services are required. After installing xAMPP, run the xAMPP Control Panel and start the   
+	Apache services.
 	
 	The OWLDB project must be stored in the path of the backend Apache server. 
 	
@@ -27,7 +27,9 @@ For Windows Users -
 	...\htdocs\owldb\bootstrap-4.3.1-dist\css\
 	...\htdocs\owldb\bootstrap-4.3.1-dist\js\
 	
-	After installing xAMPP, putting the project into the htdocs folder and starting the Apache server, you may access the 		demo by opening the latest Chrome or Firefox browser and entering /localhost/owldb/ into the browser bar.
+	After installing xAMPP, putting the project into the htdocs folder and starting the Apache server, you may  
+	access the demo by opening the latest Chrome or Firefox browser and entering /localhost/owldb/ into the  
+	browser bar.
 	
 	<--MySQL Community Edition-->	
 	
@@ -42,7 +44,10 @@ For Windows Users -
 	Username: root
 	Password: Te@mHorizon1!
 	
-	The demo will not connect successfully without the correct username and password for the php connector to use.
+	The demo will not connect successfully without the correct username and password for the php connector  
+	to use.
+	
+	
 	
 	
 	
