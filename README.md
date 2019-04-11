@@ -1,6 +1,6 @@
 # rodran
 
-Environement:
+Environment:
 
 For Windows Users -
 	Interactive Web interface requires a PHP services. If the page is hosted locally, the localhost must have some kind of   
