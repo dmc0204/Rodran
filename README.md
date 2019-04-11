@@ -6,7 +6,7 @@ For Windows Users -
 	Interactive Web interface requires a PHP services. If the page is hosted locally, the localhost must have some kind of   
 	PHP backend.
 	
-	<b>This demo was executed locally, on a Windows 10 host using Chrome Browser, MySQL Community Edition and xAMPP</b>
+	This demo was executed locally, on a Windows 10 host using Chrome Browser, MySQL Community Edition and xAMPP
 	
 	<--xAMPP-->
 	
